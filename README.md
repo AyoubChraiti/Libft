@@ -2,7 +2,7 @@
 
 https://cdn.intra.42.fr/pdf/pdf/47175/en.subject.pdf
 
-<img width="1355" alt="Screen Shot 2021-09-29 at 5 01 51 PM" src="https://user-images.githubusercontent.com/58959408/135223336-19e44567-124d-455c-b8e6-07cf16f18d9c.png">
+<img width="1355" alt="Screen Shot 2021-09-29 at 5 01 51 PM" src="https://user-images.githubusercontent.com/58959408/150704272-0d7b454d-2872-4695-aade-e5bc9c3b79aa.jpg">
 
 ## Overview
 Libft, short for "library functions," is a foundational project within the 42 Network's curriculum. It aims to empower students with a profound understanding of programming in C and essential software development concepts, serving as the initial step towards becoming proficient C programmers.
