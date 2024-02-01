@@ -2,6 +2,8 @@
 
 https://cdn.intra.42.fr/pdf/pdf/47175/en.subject.pdf
 
+<img width="1355" alt="Screen Shot 2021-09-29 at 5 01 51 PM" src="https://user-images.githubusercontent.com/58959408/135223336-19e44567-124d-455c-b8e6-07cf16f18d9c.png">
+
 ## Overview
 Libft, short for "library functions," is a foundational project within the 42 Network's curriculum. It aims to empower students with a profound understanding of programming in C and essential software development concepts, serving as the initial step towards becoming proficient C programmers.
 
@@ -17,9 +19,40 @@ Functionality
 Libft offers a comprehensive collection of custom-written functions, categorized as follows:
 
 ### String Manipulation
+- ft_strchr.c
+- ft_strdup.c
+- ft_strjoin.c
+- ft_strlcat.c
+- ft_strlcpy.c
+- ft_strlen.c
+- ft_strmapi.c
+- ft_strncmp.c
+- ft_strnstr.c
+- ft_strrchr.c
+- ft_strtrim.c
+- ft_substr.c
+- ft_tolower.c
+- ft_toupper.c
+- ft_split.c
 ### Memory Management
+- ft_calloc.c
+- ft_memchr.c
+- ft_memcmp.c
+- ft_memcpy.c
+- ft_memmove.c
+- ft_memset.c
+- ft_strdup.c
 ### Character Handling
+- ft_isalnum.c
+- ft_isalpha.c
+- ft_isascii.c
+- ft_isdigit.c
+- ft_isprint.c
 ### Input/Output
+- ft_putchar_fd.c
+- ft_putendl_fd.c
+- ft_putnbr_fd.c
+- ft_putstr_fd.c
 
 ## Learning Experience
 Creating Libft provides valuable hands-on experience in coding, debugging, testing, and memory management.
