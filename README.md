@@ -65,5 +65,5 @@ Beyond its educational value, Libft equips you with a practical toolkit for futu
 Clone this repository to your local machine and explore the provided functions as a reference and foundation for your C programming journey.
 
 ```bash
-git clone https://github.com/Madmohammed22/libft.git
+git clone https://github.com/AyoubChraiti/libft.git
 ```
